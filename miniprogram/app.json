@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/index/index"    
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#FAFAFA",
+    "navigationBarTitleText": "iView WeApp",
+    "navigationBarTextStyle": "black",
+    "backgroundTextStyle": "dark",
+    "backgroundColor": "#f9f9f9"
+  }  
+}
