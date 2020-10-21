@@ -1,3 +1,11 @@
 {
-  "usingComponents": { "i-button": "../../dist/button/index"}
+  "usingComponents": { 
+    "i-grid": "../../dist/grid/index",
+    "i-grid-item": "../../dist/grid-item/index",
+    "i-grid-icon": "../../dist/grid-icon/index",
+    "i-grid-label": "../../dist/grid-label/index",
+    "i-icon": "../../dist/icon/index",
+    "i-card": "../../dist/card/index"
+  },
+  "navigationBarBackgroundColor": "#2d8cf0"
 }

@@ -1,6 +1,15 @@
 {
   "pages": [
-    "pages/index/index"    
+    "pages/index/index",
+    "pages/arrears/index",
+    "pages/emptyRoom/index",
+    "pages/repairNotice/index",
+    "pages/tenant/index",
+    "pages/homeMaster/index",
+    "pages/buildHome/index",
+    "pages/verifyHome/index",
+    "pages/readMeter/index",
+    "pages/buildTemplate/index"
   ],
   "window": {
     "navigationBarBackgroundColor": "#FAFAFA",
@@ -8,5 +17,5 @@
     "navigationBarTextStyle": "black",
     "backgroundTextStyle": "dark",
     "backgroundColor": "#f9f9f9"
-  }  
+  }
 }

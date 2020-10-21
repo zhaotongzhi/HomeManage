@@ -1,0 +1,53 @@
+<view class="buildHome">
+  <view class="search">
+    <input type="text" placeholder="房间号" confirm-type="search" />
+    <i-icon class="icon-search" size="28" type="search" />
+  </view>
+  <view class="i-sticky">
+    <i-sticky scrollTop="{{scrollTop}}">
+      <i-sticky-item>
+        <view class="i-sticky-title" slot="title">
+          28号楼
+        </view>
+        <view slot="content">
+          <view class="i-sticky-item">
+            <view class="room">208</view>
+            <view>闲置</view>
+          </view>
+          <view class="i-sticky-item">
+            <view class="room">208</view>
+            <view>闲置</view>
+          </view>
+          <view class="i-sticky-item">
+            <view class="room">208</view>
+            <view>闲置</view>
+          </view>
+          <view class="i-sticky-item">
+            <view class="room">208</view>
+            <view>闲置</view>
+          </view>
+          <view class="i-sticky-item">
+            <view class="room">208</view>
+            <view>闲置</view>
+          </view>
+          <view class="i-sticky-item">
+            <view class="room">208</view>
+            <view>闲置</view>
+          </view>
+          <view class="i-sticky-item">
+            <view class="room">208</view>
+            <view>闲置</view>
+          </view>
+          <view class="i-sticky-item">
+            <view class="room">208</view>
+            <view>闲置</view>
+          </view>
+        </view>
+      </i-sticky-item>
+    </i-sticky>
+  </view>
+  <view class="bnt">
+    <i-icon type="add" />
+    <label>添加</label>
+  </view>
+</view>

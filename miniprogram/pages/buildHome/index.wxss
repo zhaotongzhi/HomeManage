@@ -1,0 +1,54 @@
+.buildHome {
+  position: relative;
+  padding-bottom: 100rpx;
+}
+
+.buildHome .search {
+  margin: 20rpx 0;
+  height: 90rpx;
+  width: 100%;
+  border: 1rpx solid #eeeeee;
+  border-radius: 100rpx;  
+  display: flex;
+}
+.buildHome .search .icon-search{
+  width: 120rpx;
+  line-height: 80rpx;
+}
+.buildHome .search input {
+  height: 100%;
+  margin-left:43rpx;
+  flex: 1;
+}
+
+.buildHome .i-sticky {}
+
+.buildHome .i-sticky .i-sticky-title {
+  height: 80rpx;
+  font-weight: bold;
+}
+
+.buildHome .i-sticky .i-sticky-item {
+  height: 150rpx;
+  border-bottom: 1rpx solid #eeeeee;
+  display: flex;
+  align-items: center;
+  padding: 0 40rpx;
+  justify-content: space-between;
+}
+
+.buildHome .i-sticky .i-sticky-item .room {
+  font-size: 45rpx;
+  color: black;
+}
+
+.buildHome .bnt {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100rpx;
+  line-height: 100rpx;
+  background-color: red;
+  text-align: center;
+}

@@ -1,0 +1,41 @@
+.arrear {}
+
+.arrear .list-box {
+  width: 100%;
+  height: 200rpx;
+  border-bottom: 1rpx solid #eeeeee;
+  display: flex;
+  align-items: center;
+}
+
+.arrear .list-box .box-item-date {
+  width: 150rpx;
+  text-align: center;
+}
+
+.arrear .list-box .box-item-content {
+  flex: 1;
+}
+
+.arrear .list-box .box-item-content .floor {
+  font-size: 45rpx;
+  font-weight: bold;
+}
+
+.arrear .list-box .box-item-content .zuhu-name {
+  color: #999999;
+  float: left;
+}
+
+.arrear .list-box .box-item-content .zuhu-mobile {
+  color: #80848f;
+  float: right;
+}
+
+.arrear .list-box .box-item-bnt {
+  width: 200rpx;
+  height: 100%;
+  text-align: center;
+  line-height: 200rpx;
+  color: #2d8cf0;
+}

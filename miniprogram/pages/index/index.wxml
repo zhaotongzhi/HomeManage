@@ -1,4 +1,71 @@
 <!--index.wxml-->
 <view class="container">
-  <i-button type="primary" bind:click="handleClick">这是一个按钮</i-button>
+  <view class="header-box">
+    <view bindtap="arrearsClick" class="header-box-item">
+      <view>
+        <i-icon type="redpacket" size="45" color="#ffffff" />
+      </view>
+      <view>欠费查询</view>
+    </view>
+    <view class="header-box-item">
+      <view>
+        <i-icon type="homepage" size="45" color="#ffffff" />
+      </view>
+      <view>闲置房号</view>
+    </view>
+    <view class="header-box-item">
+      <view>
+        <i-icon type="setup" size="45" color="#ffffff" />
+      </view>
+      <view>维修通知</view>
+    </view>
+  </view>
+
+  <view class="card-box">
+    <view class="card-box-item">
+      <image class="imgs" src="../../images/zuke.png"></image>
+      <view class="item-right">
+        <view class="title">租客</view>
+        <view class="count">80</view>
+      </view>
+    </view>
+    <view class="card-box-item">
+      <image class="imgs" src="../../images/huzhu.png"></image>
+      <view class="item-right">
+        <view class="title">户主</view>
+        <view class="count">80</view>
+      </view>
+    </view>
+  </view>
+
+  <view class="catalog">
+    <i-grid>
+      <i-grid-item bindtap="buildHomeClick">
+        <i-grid-icon>
+          <image src="../../images/fangwu.png" />
+        </i-grid-icon>
+        <i-grid-label>公寓管理</i-grid-label>
+      </i-grid-item>
+      <i-grid-item>
+        <i-grid-icon>
+          <image src="../../images/yan.png" />
+        </i-grid-icon>
+        <i-grid-label>验收房屋</i-grid-label>
+      </i-grid-item>
+    </i-grid>
+    <i-grid>
+      <i-grid-item>
+        <i-grid-icon>
+          <image src="../../images/chaobiao.png" />
+        </i-grid-icon>
+        <i-grid-label>集中抄表</i-grid-label>
+      </i-grid-item>
+      <i-grid-item>
+        <i-grid-icon>
+          <image src="../../images/moban.png" />
+        </i-grid-icon>
+        <i-grid-label>合同模板</i-grid-label>
+      </i-grid-item>
+    </i-grid>    
+  </view>
 </view>

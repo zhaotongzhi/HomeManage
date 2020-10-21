@@ -1,0 +1,106 @@
+<view class="arrear">
+  <view class="list-box">
+    <view class="box-item-date">20/10</view>
+    <view class="box-item-content">
+      <view>
+        <label class="floor">28号3层301</label>
+      </view>
+      <view>
+        <label class="zuhu-name">赵金建</label>
+        <label class="zuhu-mobile">18519715546</label>
+      </view>
+    </view>
+    <view class="box-item-bnt">通知</view>
+  </view>
+  <view class="list-box">
+    <view class="box-item-date">20/10</view>
+    <view class="box-item-content">
+      <view>
+        <label class="floor">28号3层301</label>
+      </view>
+      <view>
+        <label class="zuhu-name">赵金建</label>
+        <label class="zuhu-mobile">18519715546</label>
+      </view>
+    </view>
+    <view class="box-item-bnt">通知</view>
+  </view>
+  <view class="list-box">
+    <view class="box-item-date">20/10</view>
+    <view class="box-item-content">
+      <view>
+        <label class="floor">28号3层301</label>
+      </view>
+      <view>
+        <label class="zuhu-name">赵金建</label>
+        <label class="zuhu-mobile">18519715546</label>
+      </view>
+    </view>
+    <view class="box-item-bnt">通知</view>
+  </view>
+  <view class="list-box">
+    <view class="box-item-date">20/10</view>
+    <view class="box-item-content">
+      <view>
+        <label class="floor">28号3层301</label>
+      </view>
+      <view>
+        <label class="zuhu-name">赵金建</label>
+        <label class="zuhu-mobile">18519715546</label>
+      </view>
+    </view>
+    <view class="box-item-bnt">通知</view>
+  </view>
+  <view class="list-box">
+    <view class="box-item-date">20/10</view>
+    <view class="box-item-content">
+      <view>
+        <label class="floor">28号3层301</label>
+      </view>
+      <view>
+        <label class="zuhu-name">赵金建</label>
+        <label class="zuhu-mobile">18519715546</label>
+      </view>
+    </view>
+    <view class="box-item-bnt">通知</view>
+  </view>
+  <view class="list-box">
+    <view class="box-item-date">20/10</view>
+    <view class="box-item-content">
+      <view>
+        <label class="floor">28号3层301</label>
+      </view>
+      <view>
+        <label class="zuhu-name">赵金建</label>
+        <label class="zuhu-mobile">18519715546</label>
+      </view>
+    </view>
+    <view class="box-item-bnt">通知</view>
+  </view>
+  <view class="list-box">
+    <view class="box-item-date">20/10</view>
+    <view class="box-item-content">
+      <view>
+        <label class="floor">28号3层301</label>
+      </view>
+      <view>
+        <label class="zuhu-name">赵金建</label>
+        <label class="zuhu-mobile">18519715546</label>
+      </view>
+    </view>
+    <view class="box-item-bnt">通知</view>
+  </view>
+  <view class="list-box">
+    <view class="box-item-date">20/10</view>
+    <view class="box-item-content">
+      <view>
+        <label class="floor">28号3层301</label>
+      </view>
+      <view>
+        <label class="zuhu-name">赵金建</label>
+        <label class="zuhu-mobile">18519715546</label>
+      </view>
+    </view>
+    <view class="box-item-bnt">通知</view>
+  </view>
+</view>
